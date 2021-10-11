@@ -1,0 +1,8 @@
+﻿  cpW.cpp
+C:\Users\Администратор\source\repos\cpW\cpW\cpW.cpp(23,10): warning C4476: "printf": неизвестный символ поля типа "\xd1" в описателе формата
+C:\Users\Администратор\source\repos\cpW\cpW\cpW.cpp(24,16): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\Администратор\source\repos\cpW\cpW\cpW.cpp(24,16): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\Users\Администратор\source\repos\cpW\cpW\cpW.cpp(31,10): warning C4476: "printf": неизвестный символ поля типа "\xd1" в описателе формата
+C:\Users\Администратор\source\repos\cpW\cpW\cpW.cpp(32,16): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\Администратор\source\repos\cpW\cpW\cpW.cpp(32,16): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  cpW.vcxproj -> C:\Users\Администратор\source\repos\cpW\Debug\cpW.exe
